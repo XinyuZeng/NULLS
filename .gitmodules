@@ -1,0 +1,9 @@
+[submodule "external/FastPFor"]
+	path = external/FastPFor
+	url = git@github.com:lemire/FastPFor.git
+[submodule "external/lz4"]
+	path = external/lz4
+	url = git@github.com:lz4/lz4.git
+[submodule "external/benchmark"]
+	path = external/benchmark
+	url = git@github.com:google/benchmark.git

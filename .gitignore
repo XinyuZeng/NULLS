@@ -1,0 +1,9 @@
+.vscode/
+build/
+data/
+scripts/__pycache__/
+*.csv
+__pycache__
+plots/
+.conda
+!scripts/outputs/*.csv
